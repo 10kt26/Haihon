@@ -8,7 +8,7 @@ class SheetSettings {
   static const sheetname = '';
 
   //A列が1,B列が2・・・
-  //予約番号の列
+  //申込番号の列
   static const referenceNumberColumn=1;
   //学生番号の列
   static const studentNumberColumn=2;
